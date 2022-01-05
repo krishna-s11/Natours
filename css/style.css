@@ -34,7 +34,9 @@
   box-sizing: border-box; }
 
 html {
-  font-size: 10px; }
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: "Lato", sans-serif;
@@ -42,7 +44,8 @@ body {
   font-weight: 400;
   line-height: 1.7;
   color: #777;
-  padding: 3rem; }
+  padding: 3rem;
+ }
 
 .heading-primary {
   color: #fff;
